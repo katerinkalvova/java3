@@ -2,9 +2,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-.idea/
-.mvn/
-mvnw
+/.idea/
+/.mvn/
+/mvnw
 mvnw.cmd
 pom.xml
 
